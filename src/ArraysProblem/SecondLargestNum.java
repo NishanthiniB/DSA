@@ -1,4 +1,4 @@
-package Arrays;
+package ArraysProblem;
 
 public class SecondLargestNum {
     static void main() {
