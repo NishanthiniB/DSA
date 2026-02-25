@@ -4,8 +4,8 @@ import java.util.Arrays;
 
 public class RotateArrayByK {
     static void main() {
-        int[] array = {-1};
-        rotate(array,2);
+        int[] array = {1,2,3,4,5,6,7};
+        rotate(array,3);
         System.out.println(Arrays.toString(array));
     }
 
